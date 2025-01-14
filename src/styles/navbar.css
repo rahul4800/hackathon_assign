@@ -1,0 +1,41 @@
+.navbar{
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 0.5px solid rgb(231, 228, 228);
+    font-size: 14px;
+    color: #555;
+    padding: 0px 10px;
+}
+.logo {
+    font-size: 25px;
+    font-weight: bold;
+    color: #6439ff;
+}
+
+.items{
+    display: flex;
+    gap: 20px;
+}
+.items input{
+    border: 0.5px solid rgb(201, 200, 200);
+    padding: 5px;
+    border-radius: 10px;
+}
+.admin-btn{
+    padding: 5px 12px;
+    border: none;
+    background-color: rgb(253, 34, 34);
+    border-radius: 8px;
+    color: #dadada;
+    cursor: pointer;
+}
+.login-btn{
+    padding: 5px 12px;
+    border-radius: 8px;
+    border: none;
+    background-color: rgb(14, 54, 14);
+    color: #dadada;
+    cursor: pointer;
+}

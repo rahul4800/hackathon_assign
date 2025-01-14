@@ -1,0 +1,53 @@
+.sidebar {
+    height: 100%;
+    display: flex;
+    padding-top: 10px;
+    /* flex: 1;
+    border-right: 0.5px solid rgb(230, 227, 227); */
+}
+
+
+
+hr {
+    height: 0;
+    border: 0.5px solid rgb(230, 227, 227);
+}
+
+center {
+    padding-left: 10px;
+    
+    border-right: 0.5px solid rgb(230, 227, 227);
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: flex;
+    align-items: center;
+    padding: 15px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+li:hover{
+    background-color: #ece8ff;
+}
+span{
+    font-size: 20px;
+    font-weight: 600;
+    color: #888;
+    margin-left: 10px;
+}
+
+.active{
+    background-color: rgb(102, 185, 147);
+    color: white;
+}
+.info{
+    
+    padding: 15px;
+    margin-left: 10px;
+}

@@ -1,0 +1,111 @@
+{
+    "currentEvents": [
+        {
+            "id": 1,
+            "eventName": "Python Programming",
+            "imgUrl": "https://i0.wp.com/junilearning.com/wp-content/uploads/2020/06/python-programming-language.webp?fit=1920%2C1920&ssl=1",
+            "date": "Ongoing",
+            "status": "Live"
+        },
+        {
+            "id": 2,
+            "eventName": "Java Programming",
+            "imgUrl": "https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png",
+            "date": "Ongoing",
+            "status": "Live"
+        },
+        {
+            "id": 3,
+            "eventName": "Go Programming",
+            "imgUrl": "https://www.bytestechnolab.com/wp-content/uploads/2023/10/golang-development-company.webp",
+            "date": "Ongoing",
+            "status": "Live"
+        },
+        {
+            "id": 4,
+            "eventName": "JavaScript Programming",
+            "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjwCuGsYGidHVzkgzL93FcB16YhnXkfm23qQ&s",
+            "date": "Ongoing",
+            "status": "Live"
+        },
+        {
+            "id": 5,
+            "eventName": "JavaScript Programming",
+            "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjwCuGsYGidHVzkgzL93FcB16YhnXkfm23qQ&s",
+            "date": "Ongoing",
+            "status": "Live"
+        }
+    ],
+    "upcomingEvents": [
+        {
+            "id": 1,
+            "eventName": "React Programming",
+            "date": "15 Jan 2025",
+            "time":"10 AM",
+            "imgUrl": "https://miro.medium.com/v2/resize:fit:700/1*dLaDL-lSN0iprzmOpmM7zQ.png",
+            "status": "Upcoming"
+        },
+        {
+            "id": 2,
+            "eventName": "Python Programming",
+            "time":"10 AM",
+            "imgUrl": "https://i0.wp.com/junilearning.com/wp-content/uploads/2020/06/python-programming-language.webp?fit=1920%2C1920&ssl=1",
+            "date": "18 Jan 2025",
+            "status": "Upcoming"
+        },
+        {
+            "id": 3,
+            "eventName": "Javascript",
+            "time":"12 PM",
+            "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjwCuGsYGidHVzkgzL93FcB16YhnXkfm23qQ&s",
+            "date": "18 Jan 2025",
+            "status": "Upcoming"
+        },
+        {
+            "id": 4,
+            "eventName": "Java Programming",
+            "time":"3 PM",
+            "imgUrl": "https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png",
+            "date": "22 Jan 2025",
+            "status": "Upcoming"
+        },
+        {
+            "id": 5,
+            "eventName": "Data Science",
+            "time":"# PM",
+            "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYCSNtB9wYKVpJFsJw9khPbPch6H17TUEjVw&s",
+            "date": "23 Jan 2025",
+            "status": "Upcoming"
+        }
+    ],
+    "pastEvents": [
+        {
+            "id": 1,
+            "eventName": "React Programming",
+            "date": "1 Jan 2025",
+            "imgUrl": "https://miro.medium.com/v2/resize:fit:700/1*dLaDL-lSN0iprzmOpmM7zQ.png",
+            "status": "Completed"
+        },
+        {
+            "id": 5,
+            "eventName": "Java Programming",
+            "imgUrl": "https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png",
+            "date": "3 Jan 2025",
+            "status": "Completed"
+        },
+        {
+            "id": 5,
+            "eventName": "React Programming",
+            "date": "3 Jan 2025",
+            "imgUrl": "https://miro.medium.com/v2/resize:fit:700/1*dLaDL-lSN0iprzmOpmM7zQ.png",
+            "status": "Completed"
+        },
+        {
+            "id": 5,
+            "eventName": "Data Science",
+            "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYCSNtB9wYKVpJFsJw9khPbPch6H17TUEjVw&s",
+            "date": "30 Dec 2024",
+            "status": "Completed"
+        }
+    ]
+}
